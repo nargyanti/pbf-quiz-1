@@ -1,0 +1,38 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "number": 1941720083,
+      "name": "Nabilah Argyantif",
+      "phone": "082257229963",
+      "year": 2019,
+      "study_program": "Informatics Engineering",
+      "status": "active",
+      "created_at": "2022-03-31T14:26:17.000000Z",
+      "updated_at": "2022-03-31T14:30:50.000000Z"
+    },
+    {
+      "id": 2,
+      "number": 1941720083,
+      "name": "Nabilah Argyanti",
+      "phone": "082257229963",
+      "year": 2019,
+      "study_program": "Informatics Engineering",
+      "status": "active",
+      "created_at": "2022-03-31T14:27:48.000000Z",
+      "updated_at": "2022-03-31T14:27:48.000000Z"
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 5,
+      "nim": "",
+      "name": "",
+      "phone": "",
+      "year": "",
+      "study_program": "",
+      "status": ""
+    }
+  ]
+}
